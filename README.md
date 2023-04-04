@@ -1,12 +1,3 @@
-TigerCard lot Problem
-
-### Project Requirements
-
-* JDK 16.
-
-* Maven 3.
-
-* Junit 5
 
 The project can be run as follows :
 1) open Run(windows +R) and type cmd
